@@ -8,5 +8,27 @@ body {
 
 h1 {
     text-align: center;
-    color: red;
+    font-family: cursive;
+    font-size:50px;
+    color: rgb(70, 14, 14);
+}
+
+p {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+
+ul {
+    list-style: none;      
+    padding: 0;
+    margin: 20px auto;
+    width: fit-content;    
+}
+
+li {
+    text-align: center;
+    margin: 10px 0;
 }
